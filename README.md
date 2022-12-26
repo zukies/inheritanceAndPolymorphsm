@@ -1,2 +1,0 @@
-# inheritance-and-polymorphsm
- 
